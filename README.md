@@ -16,7 +16,7 @@ This project is an IoT-based Air Quality Monitoring System using ESP32, DHT22, a
 ## GitHub Links
 
 Code:
-https://github.com/yourusername/upskillcampus/blob/main/AirQualityMonitoringSystem.ino
+https://github.com/thegreatsangeethanibli/upskillcampus/blob/main/AirQualityMonitoringSystem.ino
 
 Report:
 https://github.com/yourusername/upskillcampus/blob/main/AirQualityMonitoringSystem_Sangeetha_USC_UCT.pdf
