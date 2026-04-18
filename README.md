@@ -19,7 +19,7 @@ Code:
 https://github.com/thegreatsangeethanibli/upskillcampus/blob/main/AirQualityMonitoringSystem.ino
 
 Report:
-https://github.com/yourusername/upskillcampus/blob/main/AirQualityMonitoringSystem_Sangeetha_USC_UCT.pdf
+https://github.com/thegreatsangeethanibli/upskillcampus/blob/main/AirQualityMonitoringSystem_Sangeetha_USC_UCT%20(1).pdf
 
 ## Demo Video
 https://drive.google.com/file/d/11YK9ulbbEbIZM3bsQVKC-wU909iPjmsK/view?usp=drivesdk
